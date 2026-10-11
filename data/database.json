@@ -1,0 +1,342 @@
+{
+  "users": [
+    {
+      "id": "user_admin_01",
+      "email": "admin@tiktokstudio.ai",
+      "name": "Admin TikTok Studio",
+      "passwordHash": "9a402ae403517c2c0cfce88252c1de0537eadc30d6a60b13496d908c45cc44a530941b5623710530636927861b5f11c53b265b388824d65a98b878d4a52c317d",
+      "role": "admin",
+      "plan": "pro",
+      "credits": 999,
+      "createdAt": "2026-10-10T20:42:47.928Z"
+    },
+    {
+      "id": "user_pro_01",
+      "email": "pro@tiktokstudio.ai",
+      "name": "Sarah - Agence TikTok",
+      "passwordHash": "67b94c8db58ec5fc8cbdbef732eb5e4ed2c34ea9e66a46c6058565ccbde53aa8bf01559a6e88c77b0892691076422e3e3a0255e1944a811344a96bbc0d647185",
+      "role": "user",
+      "plan": "pro",
+      "credits": 320,
+      "createdAt": "2026-10-05T20:42:47.929Z",
+      "renewalDate": "2026-11-04T20:42:47.929Z"
+    },
+    {
+      "id": "user_creator_01",
+      "email": "creator@tiktokstudio.ai",
+      "name": "Maxime Créateur",
+      "passwordHash": "fa9313fd87ccb089b0e931280dfb32d642b8588d50c9085c164d8bd9b917cd5faf35295a7eecd96fef6c5301b73c0d54a4c46dbf8f5b6cb6d1bf9f2f075903e6",
+      "role": "user",
+      "plan": "creator",
+      "credits": 85,
+      "createdAt": "2026-09-28T20:42:47.930Z",
+      "renewalDate": "2026-10-28T20:42:47.930Z"
+    },
+    {
+      "id": "user_free_01",
+      "email": "guest@demo.com",
+      "name": "Nouveau Créateur",
+      "passwordHash": "c42706d8add2aeee54286181ad6830c8facb3e74f314ecbba0642bb64005fa56c88b9987042de8ebd189a93ca409a697225510d2e7dfcced40d7656cd8ac06c4",
+      "role": "user",
+      "plan": "free",
+      "credits": 4,
+      "createdAt": "2026-10-10T20:42:47.930Z"
+    }
+  ],
+  "sessions": {
+    "ac27b5d34a3f45b38b33a2fe6f65e555af623bc745d105c3901bcb9b47ce654c": "user_free_01"
+  },
+  "scripts": [
+    {
+      "id": "script_48dca682",
+      "userId": "user_free_01",
+      "topic": "3 astuces psychologiques pour captiver sur TikTok",
+      "category": "motivation",
+      "language": "Français",
+      "tone": "Énergique & Captivant",
+      "title": "3 Hacks Psychologiques pour scotcher ton audience sur TikTok",
+      "alternativeTitles": [
+        "Comment hypnotiser littéralement l'attention sur TikTok",
+        "La psychologie secrète des vidéos à 1 million de vues"
+      ],
+      "hook": "Arrête de poster dans le vide : ton cerveau a 1 seconde et demie pour décider si tu restes ou si tu scrolles.",
+      "fullScript": "Arrête de poster dans le vide : ton cerveau a 1 seconde et demie pour décider si tu restes ou si tu scrolles. Voici 3 hacks psychologiques pour verrouiller l'attention immédiatement. Un : L'effet Zeigarnik. Ne commence jamais par une conclusion. Ouvre une boucle narrative intrigante que l'esprit humain est programmé pour vouloir refermer. Deux : La rupture de schéma visuelle. Change de plan ou ajoute un cut dynamique toutes les deux secondes pour réveiller la dopamine visuelle. Trois : Le biais de validation. Parle directement au problème secret de ton audience, pas de ta solution. Ils doivent se dire : 'Il parle de moi !'. Enregistre ce TikTok pour exploser tes prochaines stats.",
+      "estimatedDuration": "45 secondes",
+      "description": "Tu veux percer sur TikTok ? Ce n'est pas une question d'algorithme, c'est de la pure psychologie humaine ! Applique ces 3 déclencheurs mentaux dès ton prochain post. Sauvegarde pour ne pas oublier et dis-moi en commentaire quelle astuce tu testes en premier !",
+      "hashtags": [
+        "#psychologie",
+        "#creationdecontenu",
+        "#conseilstiktok",
+        "#mindsetmotivation",
+        "#growthtips"
+      ],
+      "soundSuggestion": "Phonk énergique et sombre avec basse saturée (ex: Kordhell - Murder In My Mind style beat instrumental)",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "timestamp": "00:00 - 00:04",
+          "visualPrompt916": "Cinematic vertical 9:16 shot, charismatic creator aggressively snapping fingers towards the lens, hyper-focused gaze, neon red and blue background lighting, motion blur on snap, 4k 60fps.",
+          "speech": "Arrête de poster dans le vide : ton cerveau a 1 seconde et demie pour décider si tu restes ou si tu scrolles.",
+          "textOnScreen": "STOP LE SCROLL !",
+          "cameraAngle": "Crash zoom ultra-rapide vers les yeux du créateur",
+          "musicMood": "Basse sourde suivie d'un impact puissant (Whoosh + Drop)"
+        },
+        {
+          "sceneNumber": 2,
+          "timestamp": "00:04 - 00:14",
+          "visualPrompt916": "Vertical 9:16 macro shot of a complex glowing puzzle piece snapping into place inside a holographic human brain, high contrast, cinematic octane render.",
+          "speech": "Voici 3 hacks psychologiques pour verrouiller l'attention immédiatement. Un : L'effet Zeigarnik. Ne commence jamais par une conclusion.",
+          "textOnScreen": "1. EFFET ZEIGARNIK",
+          "cameraAngle": "Travelling avant fluide et immersif",
+          "musicMood": "Beat électronique rythmé et montant"
+        },
+        {
+          "sceneNumber": 3,
+          "timestamp": "00:14 - 00:24",
+          "visualPrompt916": "Vertical 9:16 dynamic split glitch effect, showing fast cuts between an electric neon clock ticking and glowing neural synapses firing rapidly, hyper-energetic visual style.",
+          "speech": "Ouvre une boucle narrative intrigante que l'esprit humain est programmé pour vouloir refermer. Deux : La rupture de schéma visuelle.",
+          "textOnScreen": "2. RUPTURE DE SCHÉMA",
+          "cameraAngle": "Secousses dynamiques synchronisées avec les glitchs",
+          "musicMood": "Percussions rapides avec montées de synthétiseur"
+        },
+        {
+          "sceneNumber": 4,
+          "timestamp": "00:24 - 00:36",
+          "visualPrompt916": "Vertical 9:16 portrait of a person looking into an infinity mirror illuminated with soft golden and cyan edge lights, conveying deep introspection and realization.",
+          "speech": "Change de plan toutes les deux secondes pour réveiller la dopamine. Trois : Le biais de validation. Parle directement au problème secret de ton audience.",
+          "textOnScreen": "3. VALIDATION IMMÉDIATE",
+          "cameraAngle": "Travelling rotatif à 45 degrés",
+          "musicMood": "Basse lourde et constante créant une tension captivante"
+        },
+        {
+          "sceneNumber": 5,
+          "timestamp": "00:36 - 00:45",
+          "visualPrompt916": "Vertical 9:16 energetic closing shot, creator pointing directly at the camera with confident smile, modern minimalist studio with dynamic floating glowing UI icons.",
+          "speech": "Ils doivent se dire : 'Il parle de moi !'. Enregistre ce TikTok pour exploser tes prochaines stats.",
+          "textOnScreen": "ENREGISTRE CE TIKTOK",
+          "cameraAngle": "Zoom arrière rapide avec arrêt net",
+          "musicMood": "Climax intense puis cut sec sur la fin"
+        }
+      ],
+      "veoPrompt": "A hyper-engaging vertical 9:16 cinematic video of a charismatic creator in a modern moody neon-lit studio, delivering high-energy psychology tips to camera, rapid dynamic whip pans, glowing holographic brain neurons, cinematic lighting, dramatic teal and orange color grading, sharp 8k resolution, ultra-fluid 60fps motion.",
+      "createdAt": "2026-10-10T20:43:10.454Z"
+    },
+    {
+      "id": "script_demo_01",
+      "userId": "user_creator_01",
+      "topic": "3 astuces psychologiques pour captiver sur TikTok en 2025",
+      "category": "marketing",
+      "language": "Français",
+      "tone": "Énergique & Captivant",
+      "title": "Le secret des vidéos à 1M de vues révélé 🧠",
+      "alternativeTitles": [
+        "Pourquoi tu perds tes abonnés après 3 secondes",
+        "3 règles de psychologie pour percer sur TikTok"
+      ],
+      "hook": "Arrête de scroller ! 90% des créateurs font cette erreur fatale dès la première seconde...",
+      "fullScript": "Arrête de scroller ! 90% des créateurs font cette erreur fatale dès la première seconde. Règle numéro 1 : Ne dis jamais 'Salut à tous', commence directement par un choc visuel ou une question provocante. Règle numéro 2 : Coupe chaque micro-silence. Le cerveau de la génération TikTok décroche au bout de 0.8 seconde. Règle numéro 3 : Annonce le résultat dans les 3 premières secondes. Dis-moi en commentaire celle que tu testes dès aujourd'hui !",
+      "estimatedDuration": "38 secondes",
+      "description": "Applique ces 3 règles psychologiques pour retenir ton audience jusqu'au bout. Enregistre pour ta prochaine vidéo ! #tiktokfrance #astucescreatif #visibilite #conseiltiktok",
+      "hashtags": [
+        "#tiktokfrance",
+        "#astucescreatif",
+        "#conseiltiktok",
+        "#algorithmetiktok",
+        "#ia"
+      ],
+      "soundSuggestion": "Beat Phonk énergique avec montée de basse à la seconde 3",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "timestamp": "00:00 - 00:03",
+          "visualPrompt916": "Gros plan dynamique sur un écran de smartphone vibrant avec des notifications virales, éclairage néon violet et cyan, style cinématique moderne 9:16",
+          "speech": "Arrête de scroller ! 90% des créateurs font cette erreur fatale dès la première seconde.",
+          "textOnScreen": "STOP SCROLL 🛑 ERREUR FATALE",
+          "cameraAngle": "Zoom rapide vers l'écran"
+        },
+        {
+          "sceneNumber": 2,
+          "timestamp": "00:03 - 00:15",
+          "visualPrompt916": "Créateur moderne devant un setup studio néon avec micro cravate, pointant du doigt vers un graphique de rétention en forte hausse",
+          "speech": "Règle 1 : Commence direct par le problème. Pas de bonjour, pas d'intro.",
+          "textOnScreen": "RÈGLE #1 : 0 SECONDE D'INTRO ⏱️",
+          "cameraAngle": "Plan poitrine énergique"
+        },
+        {
+          "sceneNumber": 3,
+          "timestamp": "00:15 - 00:28",
+          "visualPrompt916": "Animation graphique rapide en style 3D montrant une timeline vidéo avec des coupures rythmées de silence",
+          "speech": "Règle 2 : Coupe chaque micro-silence. Le cerveau moderne décroche en 0.8s.",
+          "textOnScreen": "RÈGLE #2 : COUPE LES BLANCS ✂️",
+          "cameraAngle": "Plan travelling latéral"
+        },
+        {
+          "sceneNumber": 4,
+          "timestamp": "00:28 - 00:38",
+          "visualPrompt916": "Face caméra confiant avec flèche néon animée pointant vers la section commentaire",
+          "speech": "Dis-moi en commentaire celle que tu testes aujourd'hui et abonne-toi !",
+          "textOnScreen": "COMMENTE ET ENREGISTRE 🚀",
+          "cameraAngle": "Gros plan avec effet de zoom"
+        }
+      ],
+      "veoPrompt": "Cinematic 9:16 vertical TikTok video of a charismatic creator in a futuristic neon cyberpunk studio giving marketing tips, dynamic camera zooms, purple and cyan studio lighting, high production value 4k, hyper-detailed.",
+      "createdAt": "2026-10-08T20:42:47.930Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video_demo_01",
+      "userId": "user_creator_01",
+      "title": "Secret psychologique TikTok",
+      "prompt": "Futuristic vertical 9:16 neon studio creator revealing secret with high-energy animated graphics",
+      "style": "Cinématique Réaliste",
+      "aspectRatio": "9:16",
+      "durationSeconds": 5,
+      "status": "completed",
+      "isRealVeo": false,
+      "previewThumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=720&q=80",
+      "createdAt": "2026-10-08T20:42:47.930Z",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "timestamp": "00:00 - 00:02",
+          "visualPrompt916": "Futuristic neon room with holographic stats",
+          "speech": "Arrête de scroller !",
+          "textOnScreen": "STOP SCROLL 🛑",
+          "cameraAngle": "Zoom rapide"
+        },
+        {
+          "sceneNumber": 2,
+          "timestamp": "00:02 - 00:05",
+          "visualPrompt916": "Creator revealing viral formula with glowing arrows",
+          "speech": "Voici le secret à 1M de vues.",
+          "textOnScreen": "FORMULE 1M VUES 🚀",
+          "cameraAngle": "Plan dynamique"
+        }
+      ]
+    }
+  ],
+  "creditTransactions": [
+    {
+      "id": "tx_welcome_creator",
+      "userId": "user_creator_01",
+      "amount": 5,
+      "balanceAfter": 5,
+      "type": "welcome",
+      "description": "Crédits de bienvenue à l'inscription",
+      "timestamp": "2026-09-28T20:42:47.930Z"
+    },
+    {
+      "id": "tx_sub_creator",
+      "userId": "user_creator_01",
+      "amount": 100,
+      "balanceAfter": 105,
+      "type": "subscription",
+      "description": "Activation abonnement Creator",
+      "timestamp": "2026-09-28T20:42:47.930Z"
+    },
+    {
+      "id": "tx_gen_script_creator",
+      "userId": "user_creator_01",
+      "amount": -1,
+      "balanceAfter": 104,
+      "type": "generation_script",
+      "description": "Génération script : 3 astuces psychologiques",
+      "timestamp": "2026-10-08T20:42:47.930Z"
+    },
+    {
+      "id": "tx_gen_vid_creator",
+      "userId": "user_creator_01",
+      "amount": -2,
+      "balanceAfter": 85,
+      "type": "generation_video",
+      "description": "Génération vidéo 9:16 : Secret psychologique",
+      "timestamp": "2026-10-08T20:42:47.930Z"
+    },
+    {
+      "id": "tx_8e00c048",
+      "userId": "user_free_01",
+      "amount": -1,
+      "balanceAfter": 4,
+      "type": "generation_script",
+      "description": "Génération script TikTok : \"3 astuces psychologiques pour ...\"",
+      "timestamp": "2026-10-10T20:43:10.454Z"
+    }
+  ],
+  "paymentTransactions": [
+    {
+      "id": "pay_init_01",
+      "userId": "user_creator_01",
+      "userEmail": "creator@tiktokstudio.ai",
+      "amount": 5,
+      "currency": "EUR",
+      "itemType": "subscription",
+      "itemId": "creator",
+      "method": "card",
+      "status": "completed",
+      "timestamp": "2026-09-28T20:42:47.930Z"
+    },
+    {
+      "id": "pay_init_02",
+      "userId": "user_pro_01",
+      "userEmail": "pro@tiktokstudio.ai",
+      "amount": 15,
+      "currency": "EUR",
+      "itemType": "subscription",
+      "itemId": "pro",
+      "method": "card",
+      "status": "completed",
+      "timestamp": "2026-10-05T20:42:47.930Z"
+    }
+  ],
+  "plans": [
+    {
+      "id": "free",
+      "name": "Gratuit",
+      "priceEur": 0,
+      "priceUsd": 0,
+      "monthlyCredits": 5,
+      "badge": "Essai Découverte",
+      "features": [
+        "5 crédits de bienvenue offerts",
+        "Générateur de scripts TikTok IA",
+        "Accroches & Hooks 0-3s optimisés",
+        "Export des textes et prompts",
+        "Support communautaire"
+      ]
+    },
+    {
+      "id": "creator",
+      "name": "Creator",
+      "priceEur": 5,
+      "priceUsd": 5,
+      "monthlyCredits": 100,
+      "badge": "Populaire",
+      "features": [
+        "100 crédits par mois",
+        "Scripts & Scènes 9:16 illimités",
+        "Prompts Veo & IA vidéo haute précision",
+        "Générateur de vidéos TikTok 9:16",
+        "Historique étendu et téléchargement MP4",
+        "Accès prioritaire aux modèles"
+      ],
+      "recommended": true
+    },
+    {
+      "id": "pro",
+      "name": "Pro Studio",
+      "priceEur": 15,
+      "priceUsd": 15,
+      "monthlyCredits": 350,
+      "badge": "Performance Max",
+      "features": [
+        "350 crédits par mois",
+        "Tous les outils Creator inclus",
+        "File de rendu vidéo ultra-rapide",
+        "Génération multi-variations A/B test",
+        "Formats personnalisés Shorts & Reels",
+        "Support VIP dédié en direct"
+      ]
+    }
+  ]
+}

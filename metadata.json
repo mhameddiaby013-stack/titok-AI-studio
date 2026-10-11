@@ -1,0 +1,6 @@
+{
+  "name": "TikTok AI Studio",
+  "description": "Plateforme tout-en-un pour créateurs TikTok : génération de scripts viraux, hooks, prompts et vidéos 9:16 par intelligence artificielle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
